@@ -1,5 +1,8 @@
 # python env and cache
 env/
+venv/
+.venv/
+.env/
 __pychache__/
 
 # environment variables

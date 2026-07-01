@@ -1,0 +1,7 @@
+# python env and cache
+env/
+__pychache__/
+
+# environment variables
+.env
+.env.local

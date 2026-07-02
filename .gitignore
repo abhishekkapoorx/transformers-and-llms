@@ -8,3 +8,6 @@ __pychache__/
 # environment variables
 .env
 .env.local
+
+# model
+trained-models/

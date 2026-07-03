@@ -9,6 +9,7 @@ dependencies = [
     "datasets>=1.1.1",
     "evaluate>=0.2.0",
     "huggingface-hub>=1.21.0",
+    "scikit-learn>=1.9.0",
     "torch>=2.12.1",
     "torchvision>=0.27.1",
     "transformers[sentencepiece,torch]>=5.12.1",
